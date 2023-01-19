@@ -1,0 +1,22 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "ilya loginov - pe11_online",
+  "repository": "https://github.com/i89loginov/project-x.git",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "loginov",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.11",
+    "eslint": "^8.31.0",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "moment": "^2.29.4"
+  }
+}

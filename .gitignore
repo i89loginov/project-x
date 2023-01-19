@@ -1,0 +1,5 @@
+.prettierrc
+.prettierignore
+.editorconfig
+/.idea
+/node_modules
